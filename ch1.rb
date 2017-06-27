@@ -44,3 +44,4 @@ class Candidate
 
     finalResults.each { |candidate| puts "Name: " + candidate.name + "Score " + candidate.totalVotes }
 end
+# you can do it girl!
